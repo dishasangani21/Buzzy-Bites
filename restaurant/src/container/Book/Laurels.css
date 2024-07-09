@@ -1,0 +1,52 @@
+.app-container-div{
+    background: var(--color-black);
+}
+.app__booking-title {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: small;
+}
+.form-div{
+    text-align: center;
+}
+.form-div label{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin: 0 0 2vh 0;
+    color:var(--color-white);
+}
+.form-div input,select{
+    display: block;
+    background-color:var(--color-white) ;
+    width: 40%;
+    padding: .5rem .8rem .5rem .8rem;
+    margin-left: 30% ;
+    border:0;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.book_custom__button{
+    background-color: var(--color-crimson);
+    color: var(--color-black);
+    width: 40%;
+    margin-left: 30%;
+    font-family: var(--font-base);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    line-height: 28px;
+    background: var(--color-black);
+    margin-bottom: 30px;
+    font-size: 16px;
+    padding: 0.5rem 1.5rem;
+    border-radius: 1px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+.book_custom__button input{
+    font-family: var(--font-base);
+    color: rgb(104, 78, 2);
+    font-size: 25px;
+    font-weight: 800;
+}

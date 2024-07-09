@@ -1,0 +1,27 @@
+.app__order{
+    background: var(--color-black);
+}
+.app__order-headtext{
+    
+    font-family: var(--font-base);
+    color: var(--color-white);
+    text-align: center;
+}
+.app__order__images{
+    margin-left: 40%;
+    
+}
+.app__ordr__swiggy-image{
+    height: 150px;
+    width: 150px;
+}
+.app__ordr__zomato-image{
+    padding-left: 15px;
+    width: 165px;
+    height:150px
+}
+/* img{
+    height:150px;
+    width:150px;
+    border-radius: 5px;
+} */
